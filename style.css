@@ -141,7 +141,8 @@ footer {
 }
 
 /* HOVER EFFECTS ------------------------------------------------ */
-a:hover {
+a:hover, 
+a:active {
     background: rgb(35, 35, 35);
     color: rgb(234, 237, 244);
 }
