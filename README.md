@@ -1,6 +1,6 @@
-# PSD Conversion - Tasty
+# Single Page PSD Conversion - Tasty
 
-<h2>License</h2>
-<p>Copyright &copy; 2020 Cecile Zhang. All rights reserved.</p>
+## License
+Copyright &copy; 2020 Cecile Zhang. All rights reserved.
 
-<p>Licensed under the <a href="./LICENSE">MIT License.</a></p>
+Licensed under the [MIT License](./LICENSE).
